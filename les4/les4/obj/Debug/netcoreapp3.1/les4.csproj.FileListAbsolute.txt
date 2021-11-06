@@ -1,0 +1,13 @@
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.exe
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.deps.json
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.runtimeconfig.json
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.runtimeconfig.dev.json
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.dll
+C:\Users\mrbos\source\repos\les4\les4\bin\Debug\netcoreapp3.1\les4.pdb
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.csprojAssemblyReference.cache
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.AssemblyInfoInputs.cache
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.AssemblyInfo.cs
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.csproj.CoreCompileInputs.cache
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.dll
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.pdb
+C:\Users\mrbos\source\repos\les4\les4\obj\Debug\netcoreapp3.1\les4.genruntimeconfig.cache
